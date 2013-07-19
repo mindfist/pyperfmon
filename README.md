@@ -1,4 +1,4 @@
-# pypermon
+# pyperfmon
 
 **pyperfmon** is a simple performance measuring tool for web server, which uses python multiprocessing lib to simulater user loading condition on web server. pyperfmon can be used to simulate following perfromance loading condition on any given web server under test
  * single or multiple api(s) having different mix ratio
