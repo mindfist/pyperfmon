@@ -14,7 +14,7 @@ Response time and Request per sec (RPS) are also been calculated
 
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/lib")
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/libs")
 import itertools
 import time
 import random
